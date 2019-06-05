@@ -1,1 +1,2 @@
 E:\Rocio Oronao (5to))\3. SEM. INF.TEL.COM\primer cuatrimestre\05.15\Bingo GitHub\GitHubBingo\GitHubBingo\bin\Debug\GitHubBingo.exe.config
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-grupo09-5binfo\Bingo GitHub\GitHubBingo\GitHubBingo\bin\Debug\GitHubBingo.exe.config
